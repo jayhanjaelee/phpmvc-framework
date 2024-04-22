@@ -1,0 +1,15 @@
+{
+    "name": "hanjaelee/phpmvc-framework",
+    "authors": [
+        {
+            "name": "Hanjae Lee",
+            "email": "jayhanjaelee@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
